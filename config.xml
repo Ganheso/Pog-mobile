@@ -23,6 +23,6 @@
   
   <preference name="orientation" value="landscape" />
   <preference name="fullscreen" value="true" />
-  <preference name="android-minSdkVersion" value="22" />
+  <preference name="android-minSdkVersion" value="30" />
 
 </widget>
