@@ -18,5 +18,7 @@
   </author>
 
   <icon src="pog!Logo.png" />
+  
+  <preference name="orientation" value="landscape" />
 
 </widget>
