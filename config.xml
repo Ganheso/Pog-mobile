@@ -19,7 +19,10 @@
 
   <icon src="pog!Logo.png" />
   
+  <platform name="android" />
+  
   <preference name="orientation" value="landscape" />
   <preference name="fullscreen" value="true" />
+  <preference name="android-minSdkVersion" value="17" />
 
 </widget>
